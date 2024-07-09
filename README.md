@@ -1,4 +1,7 @@
-# demo2
-this is my second demo
+# Intro
+my name is kritika singh and  I  pursuing my Graducation in B.tech(IT) at Deen Dayal Upadhyaya Gorakhpur University
 <br>
-my name is kritika singh
+Now I am in B.tech(3rd year) and i am working on many new projects
+<br>
+I will upload all my new projects code as soon as possible
+
